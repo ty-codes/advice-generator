@@ -21,7 +21,6 @@ body {
 }
 
 .advice_wrapper {
-    position: relative;
     background-color: hsl(217, 19%, 24%);
     height:auto;
     margin: auto;
@@ -43,13 +42,12 @@ body {
     margin-bottom: 3.5em;
 }
 .btn_wrap {
-    position: absolute;
-    bottom: -2em;
-    left: 45%;
     padding: 13px;
+    
 
 }
 .btn {
+    margin-bottom: -1.8em;
     padding: 0.8em;
     border-radius: 50%;
     background-color: hsl(150, 100%, 66%);
