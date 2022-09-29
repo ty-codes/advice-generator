@@ -14,7 +14,7 @@ function getAdvice() {
         )
 }
 
-    
+getAdvice();  
 
 
 
