@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ty-codes.github.io/advice-generator.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-using-the-adviceslip-api-HODIWl6lvQ](https://www.frontendmentor.io/solutions/advice-generator-using-the-adviceslip-api-HODIWl6lvQ)
+- Live Site URL: [https://ty-codes.github.io/advice-generator.com](https://ty-codes.github.io/advice-generator.com)
 
 ## My process
 
@@ -50,5 +50,5 @@ Users should be able to:
 ## Author
 
 - Website - [Bolatito Adeoye](https://ty-codes.github.io/portfolio)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ty-codes](https://www.frontendmentor.io/profile/ty-codes)
 
